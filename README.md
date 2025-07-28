@@ -1,6 +1,6 @@
 # aitm-detect
 
-Detects anti-AiTM (Adversary-in-the-Middle) measures in Microsoft login page custom CSS branding.
+Detects anti-AiTM (Adversary-in-the-Middle) measures in Microsoft login page custom CSS branding. See the blog: https://advancedredteaming.nl/posts/detecteren-en-omzeilen-van-anti-adversary-in-the-middle-aitm-tokens
 
 ## Installation
 
